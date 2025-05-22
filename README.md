@@ -19,14 +19,16 @@ I'm a curious and driven person who believes in continuous learning. I love work
 
 I'm always open to learning, connecting, and building together 🚀
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nataliapaulino&show_icons=true&theme=solarized-light"/>
-  <img src="https://streak-stats.demolab.com?user=nataliapaulino&theme=solarized-light&stroke=D3D1D1&border=E4E2E2"/>
-</div>
-
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nataliapaulino&show_icons=true&theme=solarized-light"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=nataliapaulino&theme=solarized-light&stroke=D3D1D1&border=E4E2E2"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
