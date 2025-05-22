@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Natália - Full Stack Developer  
+# Hi there! I'm Natália - Full Stack Developer  
 <div align="center">
   <a href="mailto:npalbuquerque@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -20,22 +20,17 @@ I'm a curious and driven person who believes in continuous learning. I love work
 I'm always open to learning, connecting, and building together 🚀
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nataliapaulino&show_icons=true&theme=solarized-light" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=nataliapaulino&theme=solarized-light" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nataliapaulino&show_icons=true&theme=solarized-light"/>
+  <img src="https://streak-stats.demolab.com?user=nataliapaulino&theme=solarized-light&stroke=D3D1D1&border=E4E2E2"/>
+</div>
+
 
 
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,postgres,cs,dotnet,python,git,docker,vscode" alt="Tech Stack" height="40"/>
