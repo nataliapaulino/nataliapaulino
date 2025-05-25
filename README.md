@@ -15,10 +15,10 @@ My current tech stack includes **HTML**, **CSS**, **JavaScript**, and **PostgreS
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nataliapaulino&show_icons=true&theme=apprentice"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nataliapaulino&show_icons=true&theme=ayu-mirage"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=nataliapaulino&theme=apprentice&stroke=D3D1D1&border=E4E2E2"/>
+      <img src="https://streak-stats.demolab.com?user=nataliapaulino&theme=ayu-mirage&stroke=D3D1D1&border=E4E2E2"/>
     </td>
   </tr>
 </table>
