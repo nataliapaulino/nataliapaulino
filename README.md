@@ -7,7 +7,7 @@ My current tech stack includes **HTML**, **CSS**, **JavaScript**, and **PostgreS
 <br>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs,vite,postgres,mysql,sqlite,cs,dotnet,python,figma,git,docker" alt="Tech Stack" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nextjs,vite,postgres,mysql,sqlite,cs,dotnet,python,figma,git,docker" alt="Tech Stack"/>
 </div>
 
 ---
